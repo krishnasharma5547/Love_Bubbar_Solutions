@@ -1,5 +1,5 @@
 # Love_Bubbar_Solutions
-Competitive_Code_Questions Answers given by Love Bubbar
+Competitive_Code_Questions given by Love Bubbar
 
 
 
