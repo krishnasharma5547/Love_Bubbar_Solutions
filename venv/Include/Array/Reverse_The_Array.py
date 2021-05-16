@@ -1,5 +1,9 @@
 #           Ussing reversed method
+def Reverse_Using_Reversed(arr):
+    return list(reversed(arr))
+
+
 arr = list(map(int,input().split()))
-arr = list(reversed(arr))
-print(arr)
+print("Using Reversed: ",Reverse_Using_Reversed(arr))
+
 
